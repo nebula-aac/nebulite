@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "bun dev",
-    "check": "bun run rome check .",
-    "fix": "bun run rome format . --write",
+    "check": "bun rome check .",
+    "fix": "bun rome format . --write",
     "test": "jest --detectOpenHandles"
   },
   "jest": {
