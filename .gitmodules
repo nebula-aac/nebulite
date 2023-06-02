@@ -1,0 +1,3 @@
+[submodule "packages/pico"]
+	path = packages/pico
+	url = git@github.com:nebula-aac/pico.git
